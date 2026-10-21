@@ -1,0 +1,3 @@
+/home/zaoqishentihao/rm_armor_detection/build/CMakeFiles/detect_armor.dir
+/home/zaoqishentihao/rm_armor_detection/build/CMakeFiles/edit_cache.dir
+/home/zaoqishentihao/rm_armor_detection/build/CMakeFiles/rebuild_cache.dir
